@@ -1,0 +1,30 @@
+## Descargar
+
+Los siguientes paquetes son necesarios para la ejecución del script:
+
+- beautifulsoup4==4.9.3
+- requests==2.25.1
+- selenium==3.141.0
+
+Se pueden instalar ejecutando:
+
+```sh
+pip install -r requirements.txt
+```
+
+## Ejecutar
+
+1. En el archivo `scraper.py` se encuentra la clase `Scraper`.
+    El método `__init__` define el path al driver a utilizar con Selenium (por defecto chromedriver recibido en la clase Scraper),
+    y el path al ejecutable del browser a utilizar (por defecto Brave en un sistema Linux, también recibido desde la clase Scraper).
+    El script debería funcionar para navegadores con motores chromium, como Google Chrome, y Brave.
+    Para usar otro navegador se tiene que modificar el método `driver` de la clase `CinepolisScrapy`, en el archivo `cinepolis.py`.
+    El siguiente paso asume el uso de un navegador con motor chromium.
+
+2. De [esta página](https://sites.google.com/a/chromium.org/chromedriver/home) descargar el .zip correspondiente a la version de chromium en su navegador,
+    extraerlo y guardarse el path del ejecutable al chromedriver.
+
+3. Abrir el archivo app.py. En este se instancia la clase `Scraper` con los valores por defecto. Enviar al constructor los parametros requeridos (especificados en el paso 1) y ejecutar el archivo.
+    ```sh
+    python app.py
+    ```

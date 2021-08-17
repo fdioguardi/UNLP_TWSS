@@ -1,0 +1,17 @@
+El script produce un archivo JSON diferente para cada película.
+
+El esquema de cada uno es el siguiente:
+
+{
+    "clave del JSON-LD": "valor presente en el/los link",
+
+    "otra clave": [ lista de valores mergeados y/o presentes en varios links]
+
+    "tipo del schema.org": {
+	"clave de la película de este tipo específico": "valor"
+
+	...
+    }
+
+    ...
+}

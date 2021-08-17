@@ -1,0 +1,808 @@
+{
+    "@context": [
+        "http://schema.org",
+        "https://schema.org"
+    ],
+    "@id": "https://www.ecartelera.com/peliculas/los-caballeros-de-la-mesa-cuadrada-y-sus-locos-seguidores/",
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "mainEntityOfPage": "https://www.ecartelera.com/personas/john-cleese/",
+            "name": "John Cleese"
+        },
+        {
+            "@type": "Person",
+            "mainEntityOfPage": "https://www.ecartelera.com/personas/terry-gilliam/",
+            "name": "Terry Gilliam"
+        },
+        {
+            "@type": "Person",
+            "mainEntityOfPage": "https://www.ecartelera.com/personas/terry-jones/",
+            "name": "Terry Jones"
+        },
+        {
+            "@type": "Person",
+            "mainEntityOfPage": "https://www.ecartelera.com/personas/graham-chapman/",
+            "name": "Graham Chapman"
+        },
+        {
+            "@type": "Person",
+            "mainEntityOfPage": "https://www.ecartelera.com/personas/eric-idle/",
+            "name": "Eric Idle"
+        },
+        {
+            "@type": "Person",
+            "mainEntityOfPage": "https://www.ecartelera.com/personas/michael-palin/",
+            "name": "Michael Palin"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": [
+            "100",
+            "10.0",
+            "10"
+        ],
+        "description": "The Tomatometer rating – based on the published opinions of hundreds of film and television critics – is a trusted measurement of movie and TV programming quality for millions of moviegoers. It represents the percentage of professional critic reviews that are positive for a given film or television show.",
+        "name": "Tomatometer",
+        "ratingCount": [
+            "78",
+            505549,
+            "24",
+            "9"
+        ],
+        "ratingValue": [
+            "97",
+            "8.2",
+            "91",
+            "7,8"
+        ],
+        "reviewCount": "78",
+        "worstRating": [
+            "0",
+            "1.0"
+        ]
+    },
+    "author": [
+        {
+            "@type": "Person",
+            "image": "https://resizing.flixster.com/g0a6izJEfgrVaQIG6OmW-RR_-3I=/300x450/v1.bjs3OTY4OTI7ajsxODc3NDsxMjAwOzMwMDs0NTA",
+            "name": "Graham Chapman",
+            "sameAs": "https://www.rottentomatoes.com/celebrity/graham_chapman"
+        },
+        {
+            "@type": "Person",
+            "image": "https://resizing.flixster.com/82IeOFf2BfdGMfHT7qXfHX8tTU8=/566x850/v1.bjs3OTY4OTQ7ajsxODc3NDsxMjAwOzU2Njs4NTA",
+            "name": "John Cleese",
+            "sameAs": "https://www.rottentomatoes.com/celebrity/john_cleese"
+        },
+        {
+            "@type": "Person",
+            "image": "https://resizing.flixster.com/VJ55R8mtF0UYbaKRK1skRivpUJw=/400x600/v1.bjs4MDEyMTU7ajsxODc3NDsxMjAwOzQwMDs2MDA",
+            "name": "Eric Idle",
+            "sameAs": "https://www.rottentomatoes.com/celebrity/eric_idle"
+        },
+        {
+            "@type": "Person",
+            "image": "https://resizing.flixster.com/G3sgb-aTJcoDK-2H65W1BhsQ8as=/480x720/v1.bjs3OTY5MDE7ajsxODc3NDsxMjAwOzQ4MDs3MjA",
+            "name": "Terry Gilliam",
+            "sameAs": "https://www.rottentomatoes.com/celebrity/terry_gilliam"
+        },
+        {
+            "@type": "Person",
+            "image": "https://resizing.flixster.com/Ac3ohIfWkrIe4Rm-ffe2mb48DYs=/2848x4256/v1.bjszMzAzNzE7ajsxODc2ODsxMjAwOzI4NDg7NDI1Ng",
+            "name": "Terry Jones",
+            "sameAs": "https://www.rottentomatoes.com/celebrity/terry_jones"
+        },
+        {
+            "@type": "Person",
+            "image": "https://resizing.flixster.com/IFW84htTVNz1Gw8SIYthuXuJqFk=/1000x1500/v1.bjs3OTg4Nzg7ajsxODc3NDsxMjAwOzEwMDA7MTUwMA",
+            "name": "Michael Palin",
+            "sameAs": "https://www.rottentomatoes.com/celebrity/michael_palin"
+        }
+    ],
+    "character": [
+        "King Arthur, Three-Headed Knight, Hiccoughing Guard",
+        "Sir Lancelot, Black Knight, French",
+        "Sir Robin, Concorde, Guard, Maynard, Roger",
+        "Dennis's Mother/Sir Bedevere/Three-Headed Knight",
+        "The Witch",
+        "The First Self-Destructive Monk",
+        "Patsy/Soothsayer, Old Man from Scene 24",
+        "1st Soldier with a Keen Interest in Birds",
+        "Zoot and Dingo",
+        "The Dead Body that Claims It Isn't",
+        "The Historian Who Isn't A.J.P. Taylor",
+        "Either Winston or Piglet",
+        "Either Piglet or Winston",
+        "Villager at Witch Burning",
+        "Villager at Witch Buring",
+        "Old Crone to Whom King Arthur Said `Ni--'",
+        "Either Winston or Piglet"
+    ],
+    "contentRating": "PG",
+    "countryOfOrigin": "Reino Unido",
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Graham Chapman",
+            "url": "https://www.imdb.com/name/nm0001037/"
+        },
+        {
+            "@type": "Person",
+            "name": "John Cleese",
+            "url": "https://www.imdb.com/name/nm0000092/"
+        },
+        {
+            "@type": "Person",
+            "name": "Eric Idle",
+            "url": "https://www.imdb.com/name/nm0001385/"
+        },
+        {
+            "@type": "Person",
+            "name": "Terry Gilliam",
+            "url": "https://www.imdb.com/name/nm0000416/"
+        },
+        {
+            "@type": "Person",
+            "name": "Terry Jones",
+            "url": "https://www.imdb.com/name/nm0001402/"
+        },
+        {
+            "@type": "Person",
+            "name": "Michael Palin",
+            "url": "https://www.imdb.com/name/nm0001589/"
+        },
+        {
+            "@type": "Person",
+            "name": "Thomas Malory",
+            "url": "https://www.imdb.com/name/nm0540627/"
+        },
+        {
+            "@type": "Organization",
+            "url": "https://www.imdb.com/company/co0103397/"
+        },
+        {
+            "@type": "Organization",
+            "url": "https://www.imdb.com/company/co0103461/"
+        },
+        {
+            "@type": "Organization",
+            "url": "https://www.imdb.com/company/co0061741/"
+        }
+    ],
+    "description": [
+        "Monty Python and the Holy Grail is a movie starring Graham Chapman, John Cleese, and Eric Idle. King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly...",
+        "The Monty Python team are at it again in their second movie. This time we follow King Arthur and his knights in their search for the Holy Grail. This isn't your average medieval knights and horses story - for a start, due to a shortage in the kingdom, all the horses have been replaced by servants clopping coconuts together!",
+        "&#39;Los caballeros de la mesa cuadrada y sus locos seguidores&#39; comienza con la búsqueda de caballeros iniciada por el rey Arturo para completar su mesa en Camelot. Los candidatos son Sir Galahad el puro, Sir Lancelot el valiente, el callado Sir Bedevere y valiente, pero no tanto como Lancelot, Sir Robin. Los cuatro caballeros van de camino a Camelot cuando deciden abortar el viaje y completar la tarea que les encomienda Dios desde las alturas: un viaje en busca del Santo Grial.\r\nEl film, cargado de sátira, narra algunos acontecimientos históricos, como la quema de brujas, mientras cuenta la historia de cada uno de los caballeros, y de donde provienen sus motes.\r\nDirigida por Terry Gilliam y Terry Jones, la película cuenta entre sus protagonistas con Graham Chapman, John Cleese y Eric Idle."
+    ],
+    "director": [
+        {
+            "@type": "Person",
+            "mainEntityOfPage": "https://www.ecartelera.com/personas/terry-gilliam/",
+            "name": "Terry Gilliam"
+        },
+        {
+            "@type": "Person",
+            "mainEntityOfPage": "https://www.ecartelera.com/personas/terry-jones/",
+            "name": "Terry Jones"
+        }
+    ],
+    "duration": [
+        "PT1H31M",
+        "PT91M"
+    ],
+    "genre": [
+        "Comedia",
+        "Fantasía",
+        "Aventura",
+        "Adventure",
+        "Fantasy",
+        "Comedy"
+    ],
+    "hasPart": {
+        "@type": "Clip",
+        "description": "trailer",
+        "potentialAction": {
+            "@type": "WatchAction",
+            "expectsAcceptanceOf": {
+                "@type": "Offer",
+                "category": "free",
+                "eligibleRegion": {
+                    "@type": "Country",
+                    "name": "ES"
+                }
+            },
+            "target": {
+                "@type": "EntryPoint",
+                "actionPlatform": [
+                    "http://schema.org/DesktopWebPlatform",
+                    "http://schema.org/MobileWebPlatform",
+                    "http://schema.org/IOSPlatform",
+                    "http://schema.googleapis.com/GoogleVideoCast"
+                ],
+                "inLanguage": "es"
+            }
+        }
+    },
+    "image": [
+        "https://resizing.flixster.com/SnyTqNxQw02PR_6IXtuvTMmJ348=/740x380/v1.bjs2ODU5MzU7ajsxODc3MjsxMjAwOzEyODA7NzIw",
+        "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "https://static.metacritic.com/images/products/movies/0/ed082288380da2b5652bf2944986a371.jpg"
+    ],
+    "keywords": "holy grail,killer rabbit,monty python,camelot,cult film",
+    "name": [
+        "Monty Python and the Holy Grail",
+        "Los caballeros de la mesa cuadrada y sus locos seguidores"
+    ],
+    "productionCompany": {
+        "@type": "Organization",
+        "name": "Almi Cinema 5"
+    },
+    "publisher": [
+        {
+            "@type": "Organization",
+            "name": "Rainbow Releasing",
+            "url": "https://www.metacritic.com/company/rainbow-releasing"
+        }
+    ],
+    "releasedEvent": {
+        "@type": "PublicationEvent",
+        "location": {
+            "@type": "Country",
+            "name": "ES"
+        },
+        "startDate": "1977-08-08"
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Donald Clarke",
+                "url": "https://www.rottentomatoes.com/critic/donald-clarke"
+            },
+            "dateCreated": "2018-09-13T09:00:25-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Irish Times",
+                "url": "https://www.rottentomatoes.com/source-228"
+            },
+            "reviewBody": "The first non-sketch Python film is one of the great Arthurian romps. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://www.irishtimes.com/culture/tv-radio-web/monty-python-hits-netflix-here-s-what-to-watch-and-avoid-1.3464717"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Peter Bradshaw",
+                "url": "https://www.rottentomatoes.com/critic/peter-bradshaw"
+            },
+            "dateCreated": "2015-10-15T07:12:58-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Guardian",
+                "url": "https://www.rottentomatoes.com/source-205"
+            },
+            "reviewBody": "The material is superb, Neil Innes' music is tremendous and Gilliam's animations are timelessly brilliant.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "http://www.theguardian.com/film/2015/oct/15/monty-python-and-the-holy-grail-review-rerelease"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Tom Huddleston",
+                "url": "https://www.rottentomatoes.com/critic/tom-huddleston"
+            },
+            "dateCreated": "2015-10-12T21:08:58-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Time Out",
+                "url": "https://www.rottentomatoes.com/source-1651"
+            },
+            "reviewBody": "So unnecessarily gorgeous, there are moments where it feels like Tarkovsky with drag and farting.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "http://www.timeout.com/london/film/monty-python-and-the-holy-grail"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Stanley Kauffmann",
+                "url": "https://www.rottentomatoes.com/critic/stanley-kauffmann"
+            },
+            "dateCreated": "2013-11-18T05:55:22-08:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "The New Republic",
+                "url": "https://www.rottentomatoes.com/source-431"
+            },
+            "reviewBody": "Here is Monty Python and the Holy Grail, which is neither as sparkling as it is said to be nor as bad as it seems to be at the start. But it's pretty good.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "http://www.newrepublic.com/article/film/83972/monty-python-holy-grail-invitation-kauffmann"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Richard Schickel",
+                "url": "https://www.rottentomatoes.com/critic/richard-schickel"
+            },
+            "dateCreated": "2011-03-29T04:10:20-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "TIME Magazine",
+                "url": "https://www.rottentomatoes.com/source-448"
+            },
+            "reviewBody": "Grail is as funny as a movie can get, but it is also a tough-minded picture -- as outraged about the human propensity for violence as it is outrageous in its attack on that propensity.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "http://www.time.com/time/magazine/article/0,9171,917485,00.html"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Rob Fraser",
+                "url": "https://www.rottentomatoes.com/critic/rob-fraser"
+            },
+            "dateCreated": "2011-03-29T04:08:42-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Empire Magazine",
+                "url": "https://www.rottentomatoes.com/source-148"
+            },
+            "reviewBody": "There's something about feature films that brings out the best in the Pythons. The occasional indulgence of the TV series is replaced by a more focused approach which wrings every conceivable joke out of a given subject.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "http://www.empireonline.com/reviews/reviewcomplete.asp?DVDID=7760"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Film Companion Staff",
+                "url": "https://www.rottentomatoes.com/critic/film-companion-staff"
+            },
+            "dateCreated": "2020-10-27T10:46:01-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Film Companion",
+                "url": "https://www.rottentomatoes.com/source-3101"
+            },
+            "reviewBody": "A gut-bustingly hilarious cult classic which remains just as funny and wonderfully ridiculous, the Monty Python crew's comic exploration of the Dark Ages has lost none of its silly charm.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://www.filmcompanion.in/streaming/netflix/best-movies-on-netflix-baahubali-the-irishman-lagaan-andhadhun/"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Mike Massie",
+                "url": "https://www.rottentomatoes.com/critic/mike-massie"
+            },
+            "dateCreated": "2020-08-29T18:04:44-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Gone With The Twins",
+                "url": "https://www.rottentomatoes.com/source-3719"
+            },
+            "reviewBody": " Some sketches are amusing, others are funny, and a rare few are altogether side-splitting.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "http://gonewiththetwins.com/new/monty-python-and-the-holy-grail-1975/"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Leigh Paatsch",
+                "url": "https://www.rottentomatoes.com/critic/leigh-paatsch"
+            },
+            "dateCreated": "2020-04-15T04:14:46-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Herald Sun (Australia)",
+                "url": "https://www.rottentomatoes.com/source-2032"
+            },
+            "reviewBody": "Worth a look if you've never seen it, but real fans know the best is yet to come.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://www.heraldsun.com.au/entertainment/movies/leigh-paatsch/your-night-in-what-to-watch-on-freetoair-or-streaming-services/news-story/15211be835d7631b99760402776705f3"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "John Lui",
+                "url": "https://www.rottentomatoes.com/critic/john-lui"
+            },
+            "dateCreated": "2020-04-02T06:31:11-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "The Straits Times (Singapore)",
+                "url": "https://www.rottentomatoes.com/source-720"
+            },
+            "reviewBody": "There are classic bits here about plagues, witches and chivalry, but their best scenes poke fun at ye olden days while stating that after 900 years, nothing has changed.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://www.straitstimes.com/lifestyle/entertainment/crime-capes-and-chivalry"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Sergio Benítez",
+                "url": "https://www.rottentomatoes.com/critic/sergio-benitez"
+            },
+            "dateCreated": "2019-08-23T09:03:55-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Espinof",
+                "url": "https://www.rottentomatoes.com/source-2621"
+            },
+            "reviewBody": "The film goes on working a sense of humor that grows great in the continuous absurdity that always characterized the English work. [Full Review in Spanish] ",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://www.espinof.com/criticas/cine-en-el-salon-los-caballeros-de-la-mesa-cuadrada-y-sus-locos-seguidores-tronchante"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Tim Brayton",
+                "url": "https://www.rottentomatoes.com/critic/tim-brayton"
+            },
+            "dateCreated": "2017-09-06T16:34:34-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Alternate Ending",
+                "url": "https://www.rottentomatoes.com/source-2856"
+            },
+            "reviewBody": "Terribly exciting and clever, and while its sharpness has been considerably blunted through time, you can still tell where it once was.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "http://www.alternateending.com/2017/05/monty-python-holy-grail-1975.html"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Chris Barsanti",
+                "url": "https://www.rottentomatoes.com/critic/chris-barsanti"
+            },
+            "dateCreated": "2015-12-01T22:00:47-08:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "PopMatters",
+                "url": "https://www.rottentomatoes.com/source-368"
+            },
+            "reviewBody": "A fresh look at the ultimate mock epic, after the Python method has been assimilated into the cultural DNA, reveals the subversive spirit of this bloody and cynical Arthurian deconstruction.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "http://www.popmatters.com/review/monty-python-and-the-holy-grail-40th-anniversary-edition-blood-politics-sil/"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Gregory Weinkauf",
+                "url": "https://www.rottentomatoes.com/critic/gregory-weinkauf"
+            },
+            "dateCreated": "2014-11-24T01:32:29-08:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "New Times",
+                "url": "https://www.rottentomatoes.com/source-497"
+            },
+            "reviewBody": "Watching it, it's hard to believe that these guys were actually meandering across heaths and trudging across rope bridges, with electricians and caterers not far away. It seems more as if this souvenir of the Absurd Ages has... existed for a millennium.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "http://www.phoenixnewtimes.com/2001-09-13/film/the-full-monty/"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Jamie Graham",
+                "url": "https://www.rottentomatoes.com/critic/jamie-graham"
+            },
+            "dateCreated": "2013-11-18T05:59:19-08:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Total Film",
+                "url": "https://www.rottentomatoes.com/source-451"
+            },
+            "reviewBody": "The Python team's surreal take on the legend of Camelot bursts with inspired lunacy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "http://www.totalfilm.com/reviews/dvd/monty-python-and-the-holy-grail"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "David Parkinson",
+                "url": "https://www.rottentomatoes.com/critic/david-parkinson"
+            },
+            "dateCreated": "2013-11-18T05:57:48-08:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Radio Times",
+                "url": "https://www.rottentomatoes.com/source-2290"
+            },
+            "reviewBody": "This remains a wonderfully inventive comedy that brilliantly debunks the Dark Ages and legends of chivalry.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "http://www.radiotimes.com/film/9rfw/monty-python-and-the-holy-grail-%281975%29"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Michael Sragow",
+                "url": "https://www.rottentomatoes.com/critic/michael-sragow"
+            },
+            "dateCreated": "2012-11-26T08:41:34-08:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Baltimore Sun",
+                "url": "https://www.rottentomatoes.com/source-36"
+            },
+            "reviewBody": "Monty Python and the Holy Grail may be 26 years old, but even in the fast-moving world of pop culture, it's no relic. It's still the Holy Grail of crazy comedy.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "http://articles.baltimoresun.com/2001-10-26/features/0110260215_1_holy-grail-monty-python-arthur/2"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Matt Brunson",
+                "url": "https://www.rottentomatoes.com/critic/matt-brunson"
+            },
+            "dateCreated": "2012-04-25T14:37:34-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Creative Loafing",
+                "url": "https://www.rottentomatoes.com/source-1013"
+            },
+            "reviewBody": "There's a semblance of a plot, but this is really just an excuse for the boys to engage in their unique brand of humor, which includes mimicry, dress-up, dry wit, slapstick and glorious non sequitors.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "http://clclt.com/charlotte/monty-python-and-the-holy-grail-terminator-genisys-trainwreck-among-new-home-entertainment-titles/Content?oid=3698942"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "James Plath",
+                "url": "https://www.rottentomatoes.com/critic/james-plath"
+            },
+            "dateCreated": "2012-03-03T02:09:34-08:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Movie Metropolis",
+                "url": "https://www.rottentomatoes.com/source-745"
+            },
+            "reviewBody": "If you like this film, the sad truth is that it's yet another visual upgrade, and it does contain what Gilliam called \"the only reason for buying the Blu-ray\"-those lost animations.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "http://moviemet.com/review/monty-python-and-holy-grail-blu-ray-review"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Richard Luck",
+                "url": "https://www.rottentomatoes.com/critic/richard-luck"
+            },
+            "dateCreated": "2011-03-29T04:09:20-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Film4",
+                "url": "https://www.rottentomatoes.com/source-1396"
+            },
+            "reviewBody": "A comedy classic that only misses out on the Python canon's top spot because the talented swines also made Life Of Brian.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "http://www.film4.com/reviews/1975/monty-python-and-the-holy-grail"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "NA"
+            },
+            "dateCreated": "2011-03-29T04:07:51-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "TV Guide",
+                "url": "https://www.rottentomatoes.com/source-2501"
+            },
+            "reviewBody": "A zany, hysterically funny, and sometimes brilliant if sometimes sophomoric send-up of every medieval movie ever made.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "http://movies.tvguide.com/monty-python-holy/review/106648"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Dave Kehr",
+                "url": "https://www.rottentomatoes.com/critic/dave-kehr"
+            },
+            "dateCreated": "2011-03-29T04:07:21-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Chicago Reader",
+                "url": "https://www.rottentomatoes.com/source-66"
+            },
+            "reviewBody": "Silly, sophomoric, and slapped together -- but would you want it any other way?",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "http://www.chicagoreader.com/chicago/monty-python-and-the-holy-grail/Film?oid=7514872"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Felix Vasquez Jr.",
+                "url": "https://www.rottentomatoes.com/critic/felix-vasquez-jr"
+            },
+            "dateCreated": "2009-04-28T20:16:31-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Cinema Crazed",
+                "url": "https://www.rottentomatoes.com/source-1879"
+            },
+            "reviewBody": "This has to be one of the funniest movies I've ever seen.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "http://www.cinema-crazed.com/monty.htm"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Variety Staff",
+                "url": "https://www.rottentomatoes.com/critic/variety-staff"
+            },
+            "dateCreated": "2008-09-03T20:15:23-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Variety",
+                "url": "https://www.rottentomatoes.com/source-466"
+            },
+            "reviewBody": "Monty Python's Flying Circus, the British comedy group which gained fame via BBC-TV, send-up Arthurian legend, performed in whimsical fashion with Graham Chapman an effective straight man as King Arthur.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "http://www.variety.com/review/VE1117793218.html?categoryid=31&cs=1"
+        }
+    ],
+    "trailer": {
+        "@type": "VideoObject",
+        "description": "The Monty Python team are at it again in their second movie. This time we follow King Arthur and his knights in their search for the Holy Grail. This isn't your average medieval knights and horses story - for a start, due to a shortage in the kingdom, all the horses have been replaced by servants clopping coconuts together!",
+        "embedUrl": "/video/imdb/vi3159408409",
+        "name": [
+            "Trailer",
+            "Monty Python And The Holy Grail"
+        ],
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BNjg0NzFhY2UtNmRjMS00OGIwLTg1OTAtNjZkMDY3ZDFkZmU1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": [
+            "https://m.media-amazon.com/images/M/MV5BNjg0NzFhY2UtNmRjMS00OGIwLTg1OTAtNjZkMDY3ZDFkZmU1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+            "https://content.internetvideoarchive.com/content/hdphotos/7636/007636/007636_736x414_374_050.jpg"
+        ],
+        "uploadDate": [
+            "2020-01-29T12:39:35Z",
+            "2016-05-06 00:55:00"
+        ]
+    }
+}

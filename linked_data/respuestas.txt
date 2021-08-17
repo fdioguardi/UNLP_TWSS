@@ -1,0 +1,19 @@
+¿Qué requisitos debe cumplir el archivo dataset-original.ttl para que su programa funcione adecuadamente?
+
+	No es necesario que este cumpla con ningún requisito específico, salvo que se componga de tripletas bien generadas.
+
+¿Cree que funcionará si le damos como entrada el archivo generado por alguno de sus compañeros?
+
+	Funcionará, porque no hay nada de la entrada que el algoritmo necesite para finalizar correctamente (salvo, de nuevo, que los archivos estén bien generados).
+
+¿Cómo efectuó la búsqueda de correspondencias entre su dataset y dbpedia?
+
+	Lo buscamos a mano en dbpedia, en base al nombre del actor que habíamos guardado en el dataset-original.ttl.
+
+¿Se podría automatizar la búsqueda de correspondencias? ¿Cómo? ¿Con qué efectividad?
+
+	Sí, podríamos pensar en algún algoritmo que, a partir de las IRIs de los actores en nuestra ontología, genere las IRIs correspondientes a los mismos actores en dbpedia, haciendo algún parseo sintáctico de los strings. Depende del parseo implementado su nivel de efectividad, sin embargo dudamos que se pueda alcanzar algo optimo con este acercamiento. A su vez, tal vez el tema siguiente pueda ayudarnos con este problema.
+
+Le pedimos que incluya la información obtenida de dbpedia en el archivo resultante. Desde el punto de vista de alguien que va a utilizar su dataset, ¿era necesario incluir esa información o alcanzaba con solo proveer los links sameAs?
+
+	En si, no es necesario incluir esa información al dataset. Esto sí facilita el acceso a la información por parte de quien va a utilizarlo. Si se dejaran únicamente los links sameAs, igualmente se podría acceder a la información, yendo a buscarla de la forma que lo hicimos en el algoritmo, o con alguna herramienta como curl. Al fin y al cabo, la semántica del sameAs es precisamente el indicar que ambos links representan al mismo recurso, por ende su información se complementa.

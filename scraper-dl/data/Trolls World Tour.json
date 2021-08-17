@@ -1,0 +1,868 @@
+{
+    "@context": [
+        "http://schema.org",
+        "https://schema.org"
+    ],
+    "@type": "Movie",
+    "actor": [
+        {
+            "@type": "Person",
+            "name": "Aino Jawo",
+            "url": "https://www.metacritic.com/person/aino-jawo"
+        },
+        {
+            "@type": "Person",
+            "name": "Anderson .Paak",
+            "url": "https://www.metacritic.com/person/anderson-paak"
+        },
+        {
+            "@type": "Person",
+            "name": "Anna Kendrick",
+            "url": "https://www.metacritic.com/person/anna-kendrick"
+        },
+        {
+            "@type": "Person",
+            "name": "Anthony Ramos",
+            "url": "https://www.metacritic.com/person/anthony-ramos"
+        },
+        {
+            "@type": "Person",
+            "name": "Chance the Rapper",
+            "url": "https://www.metacritic.com/person/chance-the-rapper"
+        },
+        {
+            "@type": "Person",
+            "name": "Chance the Rapper",
+            "url": "https://www.metacritic.com/person/chance-the-rapper"
+        },
+        {
+            "@type": "Person",
+            "name": "Charlyne Yi",
+            "url": "https://www.metacritic.com/person/charlyne-yi"
+        },
+        {
+            "@type": "Person",
+            "name": "Ester Dean",
+            "url": "https://www.metacritic.com/person/ester-dean"
+        },
+        {
+            "@type": "Person",
+            "name": "Flula Borg",
+            "url": "https://www.metacritic.com/person/flula-borg"
+        },
+        {
+            "@type": "Person",
+            "name": "George Clinton",
+            "url": "https://www.metacritic.com/person/george-clinton"
+        },
+        {
+            "@type": "Person",
+            "name": "Gwen Stefani",
+            "url": "https://www.metacritic.com/person/gwen-stefani"
+        },
+        {
+            "@type": "Person",
+            "name": "James Corden",
+            "url": "https://www.metacritic.com/person/james-corden"
+        },
+        {
+            "@type": "Person",
+            "name": "Jamie Dornan",
+            "url": "https://www.metacritic.com/person/jamie-dornan"
+        },
+        {
+            "@type": "Person",
+            "name": "Justin Timberlake",
+            "url": "https://www.metacritic.com/person/justin-timberlake"
+        },
+        {
+            "@type": "Person",
+            "name": "Karan Soni",
+            "url": "https://www.metacritic.com/person/karan-soni"
+        },
+        {
+            "@type": "Person",
+            "name": "Kelly Clarkson",
+            "url": "https://www.metacritic.com/person/kelly-clarkson"
+        },
+        {
+            "@type": "Person",
+            "name": "Kenan Thompson",
+            "url": "https://www.metacritic.com/person/kenan-thompson"
+        },
+        {
+            "@type": "Person",
+            "name": "Kunal Nayyar",
+            "url": "https://www.metacritic.com/person/kunal-nayyar"
+        },
+        {
+            "@type": "Person",
+            "name": "Mary J. Blige",
+            "url": "https://www.metacritic.com/person/mary-j-blige"
+        },
+        {
+            "@type": "Person",
+            "name": "Ozzy Osbourne",
+            "url": "https://www.metacritic.com/person/ozzy-osbourne"
+        },
+        {
+            "@type": "Person",
+            "name": "Rachel Bloom",
+            "url": "https://www.metacritic.com/person/rachel-bloom"
+        },
+        {
+            "@type": "Person",
+            "name": "Ron Funches",
+            "url": "https://www.metacritic.com/person/ron-funches"
+        },
+        {
+            "@type": "Person",
+            "name": "Sam Rockwell",
+            "url": "https://www.metacritic.com/person/sam-rockwell"
+        },
+        {
+            "@type": "Person",
+            "name": "Walt Dohrn",
+            "url": "https://www.metacritic.com/person/walt-dohrn"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": [
+            "100",
+            "10.0"
+        ],
+        "description": "The Tomatometer rating – based on the published opinions of hundreds of film and television critics – is a trusted measurement of movie and TV programming quality for millions of moviegoers. It represents the percentage of professional critic reviews that are positive for a given film or television show.",
+        "name": "Tomatometer",
+        "ratingCount": [
+            "160",
+            17779,
+            "35"
+        ],
+        "ratingValue": [
+            "71",
+            "6.1",
+            "51"
+        ],
+        "reviewCount": "160",
+        "worstRating": [
+            "0",
+            "1.0"
+        ]
+    },
+    "author": [
+        {
+            "@type": "Person",
+            "name": "Jonathan Aibel",
+            "sameAs": "https://www.rottentomatoes.com/celebrity/jonathan_aibel"
+        },
+        {
+            "@type": "Person",
+            "name": "Glenn Berger",
+            "sameAs": "https://www.rottentomatoes.com/celebrity/glenn_berger"
+        },
+        {
+            "@type": "Person",
+            "name": "Maya Forbes",
+            "sameAs": "https://www.rottentomatoes.com/celebrity/maya_forbes"
+        },
+        {
+            "@type": "Person",
+            "image": "https://resizing.flixster.com/2JJxJotBvnLV95qm4qyUkwLsfCE=/300x450/v1.bjs3NTYzOTY7ajsxODc3MzsxMjAwOzMwMDs0NTA",
+            "name": "Wallace Wolodarsky",
+            "sameAs": "https://www.rottentomatoes.com/celebrity/m_wallace_wolodarsky"
+        },
+        {
+            "@type": "Person",
+            "name": "Elizabeth Tippet",
+            "sameAs": "https://www.rottentomatoes.com/celebrity/elizabeth_tippet"
+        }
+    ],
+    "character": [
+        "Poppy",
+        "Branch",
+        "Barb",
+        "Dickory",
+        "Delta Dawn",
+        "Biggie",
+        "Chaz",
+        "Guy Diamond",
+        "King Trollex",
+        "Hickory",
+        "Riff",
+        "Tiny Diamond",
+        "Pennywhistle",
+        "Queen Essence",
+        "Chance",
+        "Kim-Petit",
+        "Carol",
+        "Ari"
+    ],
+    "contentRating": "PG",
+    "creator": [
+        {
+            "@type": "Person",
+            "name": "Jonathan Aibel",
+            "url": "https://www.imdb.com/name/nm0008743/"
+        },
+        {
+            "@type": "Person",
+            "name": "Glenn Berger",
+            "url": "https://www.imdb.com/name/nm0074184/"
+        },
+        {
+            "@type": "Person",
+            "name": "Maya Forbes",
+            "url": "https://www.imdb.com/name/nm0285379/"
+        },
+        {
+            "@type": "Person",
+            "name": "Wallace Wolodarsky",
+            "url": "https://www.imdb.com/name/nm0938645/"
+        },
+        {
+            "@type": "Person",
+            "name": "Elizabeth Tippet",
+            "url": "https://www.imdb.com/name/nm2533335/"
+        },
+        {
+            "@type": "Person",
+            "name": "Jonathan Aibel",
+            "url": "https://www.imdb.com/name/nm0008743/"
+        },
+        {
+            "@type": "Person",
+            "name": "Glenn Berger",
+            "url": "https://www.imdb.com/name/nm0074184/"
+        },
+        {
+            "@type": "Person",
+            "name": "Thomas Dam",
+            "url": "https://www.imdb.com/name/nm8540931/"
+        },
+        {
+            "@type": "Organization",
+            "url": "https://www.imdb.com/company/co0129164/"
+        },
+        {
+            "@type": "Organization",
+            "url": "https://www.imdb.com/company/co0169264/"
+        }
+    ],
+    "description": [
+        "Trolls World Tour is a movie starring Anna Kendrick, Justin Timberlake, and Rachel Bloom. When the Queen of the Hard Rock Trolls tries to take over all the Troll kingdoms, Queen Poppy and her friends try different ways to save all...",
+        "Poppy and Branch discover that they are but one of six different Troll tribes scattered over six different lands devoted to six different kinds of music: Funk, Country, Techno, Classical, Pop and Rock. Their world is about to get a lot bigger and a whole lot louder. A member of hard-rock royalty, Queen Barb, aided by her father King Thrash, wants to destroy all other kinds of music to let rock reign supreme. With the fate of the world at stake, Poppy and Branch, along with their friends, set..."
+    ],
+    "director": [
+        {
+            "@type": "Person",
+            "name": "Daron Nefcy",
+            "url": "https://www.metacritic.com/person/daron-nefcy"
+        },
+        {
+            "@type": "Person",
+            "name": "David P. Smith",
+            "url": "https://www.metacritic.com/person/david-p-smith"
+        },
+        {
+            "@type": "Person",
+            "name": "Lee Unkrich",
+            "url": "https://www.metacritic.com/person/lee-unkrich"
+        },
+        {
+            "@type": "Person",
+            "name": "Mike Mitchell",
+            "url": "https://www.metacritic.com/person/mike-mitchell"
+        },
+        {
+            "@type": "Person",
+            "name": "Walt Dohrn",
+            "url": "https://www.metacritic.com/person/walt-dohrn"
+        }
+    ],
+    "duration": [
+        "PT1H30M",
+        "PT90M"
+    ],
+    "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Comedy",
+        "Animation",
+        "Family",
+        "Musical"
+    ],
+    "image": [
+        "https://resizing.flixster.com/hY_2Ed6v6TInFrtVlVG2ejnupH0=/740x380/v1.bjsyNDEyMzAwO2o7MTg3OTI7MTIwMDs1MDAwOzIwNzM",
+        "https://m.media-amazon.com/images/M/MV5BMTI5NmViY2YtNDk5NC00NjY2LWFlNGYtOGEwNzY1MTZmMjFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "https://static.metacritic.com/images/products/movies/5/76db346c0631a92d4c02d5efc76c31a3.jpg"
+    ],
+    "keywords": "jukebox musical,second part,troll doll,troll,based on toy",
+    "name": "Trolls World Tour",
+    "productionCompany": {
+        "@type": "Organization",
+        "name": "DreamWorks Animation"
+    },
+    "publisher": [
+        {
+            "@type": "Organization",
+            "name": "Universal Pictures",
+            "url": "https://www.metacritic.com/company/universal-pictures"
+        }
+    ],
+    "review": [
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Tasha Robinson",
+                "url": "https://www.rottentomatoes.com/critic/tasha-robinson"
+            },
+            "dateCreated": "2020-09-29T08:18:36-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Polygon",
+                "url": "https://www.rottentomatoes.com/source-2843"
+            },
+            "reviewBody": "The songs are kinda boring and the plot's pretty rote, but this film is shockingly beautiful and thought-through in all the design elements.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://www.polygon.com/2020/9/28/21461333/what-to-watch-netflix-hbo-hulu-great-british-baking-show-doctor-sleep-horror"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Jake Wilson",
+                "url": "https://www.rottentomatoes.com/critic/jake-wilson"
+            },
+            "dateCreated": "2020-09-16T02:12:47-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "The Age (Australia)",
+                "url": "https://www.rottentomatoes.com/source-2041"
+            },
+            "reviewBody": "Even with so much spelled out, the significance of this very abstract parable will be best appreciated by the adults in the room, just as the trippy visuals (often quite imaginative) belong to the same tradition of knowingly warped storybook imagery.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://www.theage.com.au/culture/movies/preachy-trolls-look-on-the-bright-side-20200916-p55w3v.html"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Clarisse Loughrey",
+                "url": "https://www.rottentomatoes.com/critic/clarisse-loughrey"
+            },
+            "dateCreated": "2020-08-09T22:50:08-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Independent (UK)",
+                "url": "https://www.rottentomatoes.com/source-691"
+            },
+            "reviewBody": "Trolls World Tour is clear on one thing: never should glitter and rainbows be automatically equated with brainlessness.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "Trolls World Tour"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Roxana Hadadi",
+                "url": "https://www.rottentomatoes.com/critic/roxana-hadadi"
+            },
+            "dateCreated": "2020-05-08T11:20:19-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Chesapeake Family Magazine",
+                "url": "https://www.rottentomatoes.com/source-2790"
+            },
+            "reviewBody": "One of the nicest things to say about Trolls World Tour is that it moves pretty briskly. It's not particularly impactful, but it should be entertaining enough for young viewers.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://chesapeakefamily.com/fun/movies/9973-family-movie-review-trolls-world-tour-pg"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Amy Nicholson",
+                "url": "https://www.rottentomatoes.com/critic/amy-nicholson"
+            },
+            "dateCreated": "2020-04-20T09:33:44-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "FilmWeek (KPCC - NPR Los Angeles)",
+                "url": "https://www.rottentomatoes.com/source-3509"
+            },
+            "reviewBody": "I don't know if a six-year-old -- who the animation appears designed for in terms of style, brightness, and color -- would get any of the jokes, but as a person trapped in my house, I appreciated them.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://www.scpr.org/programs/filmweek/2020/04/17/65526/filmweek-trolls-world-tour-a-white-white-day-the-q/"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Randy Myers",
+                "url": "https://www.rottentomatoes.com/critic/randy-myers"
+            },
+            "dateCreated": "2020-04-17T22:15:45-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "San Jose Mercury News",
+                "url": "https://www.rottentomatoes.com/source-601"
+            },
+            "reviewBody": "\"Trolls: World Tour\" is not a mindblowing cinematic achievement, but it is exactly what kids, and parents, need right now. That's where it hits the high note.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://www.mercurynews.com/2020/04/10/review-enjoyable-trolls-world-tour-arrives-in-time-to-combat-home-shelter-fatigue/"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Hagan Osborne",
+                "url": "https://www.rottentomatoes.com/critic/hagan-osborne"
+            },
+            "dateCreated": "2021-03-25T07:26:54-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "FILMINK (Australia)",
+                "url": "https://www.rottentomatoes.com/source-1014"
+            },
+            "reviewBody": "...a journey well-trodden, but nonetheless elevated by tight visuals, high-energy, and good vibes that make for some easy-breezy viewing.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://www.filmink.com.au/reviews/trolls-world-tour/"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Alex Bentley",
+                "url": "https://www.rottentomatoes.com/critic/alex-bentley"
+            },
+            "dateCreated": "2021-02-17T00:07:55-08:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "CultureMap",
+                "url": "https://www.rottentomatoes.com/source-3686"
+            },
+            "reviewBody": "Trolls World Tour is nowhere near the quality of the first film, with fleeting fun attached to mostly forgettable songs.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": -1,
+                "worstRating": "-1"
+            },
+            "url": "https://dallas.culturemap.com/news/entertainment/04-13-20-trolls-world-tour-movie-review/#slide=0"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Richard Crouse",
+                "url": "https://www.rottentomatoes.com/critic/richard-crouse"
+            },
+            "dateCreated": "2021-01-30T02:09:15-08:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Richard Crouse",
+                "url": "https://www.rottentomatoes.com/source-3900"
+            },
+            "reviewBody": "What's missing is the wonderful weirdness that made the original Trolls film the strangest children's entertainment since H.R. Pufnstuf. Story wise, this one feels formulaic with less of an edge. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": -1,
+                "worstRating": "-1"
+            },
+            "url": "https://www.ctvnews.ca/entertainment/movie-reviews-trolls-world-tour-feels-formulaic-less-edgy-than-first-one-1.4890170"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Jennifer Heaton",
+                "url": "https://www.rottentomatoes.com/critic/jennifer-heaton"
+            },
+            "dateCreated": "2021-01-14T10:43:12-08:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Alternative Lens",
+                "url": "https://www.rottentomatoes.com/source-3260"
+            },
+            "reviewBody": "It's still a film aimed at very young kids and can be annoyingly twee at times, but there's a sense of spectacle and cleverness here that was rarely present in its predecessor.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://altfilmlens.wordpress.com/2021/01/15/the-end-of-year-surplus-review-extravaganza-2020/"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Richard Propes",
+                "url": "https://www.rottentomatoes.com/critic/richard-propes-27470"
+            },
+            "dateCreated": "2021-01-06T07:52:31-08:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "TheIndependentCritic.com",
+                "url": "https://www.rottentomatoes.com/source-3826"
+            },
+            "reviewBody": "A kid friendly and reasonably entertaining lightweight film.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://theindependentcritic.com/trolls_world_tour"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Diana Mangas",
+                "url": "https://www.rottentomatoes.com/critic/diana-mangas"
+            },
+            "dateCreated": "2021-01-02T19:42:52-08:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Los Interrogantes",
+                "url": "https://www.rottentomatoes.com/source-3825"
+            },
+            "reviewBody": "A more adult and complex plot that invites you to talk with the smallest of the house about the importance of tolerance and the richness of diversity. [Full review in Spanish]",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://losinterrogantes.com/cine/criticas/pelicula-trolls-2-gira-mundial"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Pallabi Dey Purkayastha",
+                "url": "https://www.rottentomatoes.com/critic/pallabi-dey-purkayastha"
+            },
+            "dateCreated": "2020-12-03T05:02:01-08:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "The Times of India",
+                "url": "https://www.rottentomatoes.com/source-2645"
+            },
+            "reviewBody": "Once again, 'Trolls Word Tour' reiterates what we have known all along but some of us chose to ignore or may have forgotten: music is the universal language of the universe.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://timesofindia.indiatimes.com/entertainment/english/movie-reviews/trolls-world-tour/movie-review/79329662.cms"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Paul Salfen",
+                "url": "https://www.rottentomatoes.com/critic/paul-salfen"
+            },
+            "dateCreated": "2020-11-25T03:12:49-08:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "AMFM Magazine",
+                "url": "https://www.rottentomatoes.com/source-3653"
+            },
+            "reviewBody": "There's a sweet message in this harmless hit-heavy kid and stoner friendly flick that features cool voice cameos, but it certainly won't be for everyone.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://www.amfm-magazine.tv/movie-minute-trolls-world-tour-sea-fever-reviews/"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Sebastian Valencia",
+                "url": "https://www.rottentomatoes.com/critic/sebastian-valencia"
+            },
+            "dateCreated": "2020-10-04T14:56:14-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Cine Premiere",
+                "url": "https://www.rottentomatoes.com/source-2619"
+            },
+            "reviewBody": "Trolls World Tour expands on the world and themes of the first film, but it's narrative imagination is limited. [Full Review in Spanish]",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": -1,
+                "worstRating": "-1"
+            },
+            "url": "https://www.cinepremiere.com.mx/trolls-2-world-tour-critica-de-la-pelicula.html"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Peter Gray",
+                "url": "https://www.rottentomatoes.com/critic/peter-gray"
+            },
+            "dateCreated": "2020-09-14T10:58:56-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "The AU Review",
+                "url": "https://www.rottentomatoes.com/source-3188"
+            },
+            "reviewBody": "Trolls World Tour has its heart in the right place that it's easy to forgive the fact that this film is essentially just an excuse to compile an eclectic-enough soundtrack.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://www.theaureview.com/watch/film-review-trolls-world-tours-sunny-disposition-is-just-what-families-need-during-these-uncertain-times/"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Tom Beasley",
+                "url": "https://www.rottentomatoes.com/critic/tom-beasley"
+            },
+            "dateCreated": "2020-08-16T19:17:43-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "VultureHound",
+                "url": "https://www.rottentomatoes.com/source-3201"
+            },
+            "reviewBody": "Likeable and fun enough that it emerges smelling of candy canes. So many candy canes.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://vulturehound.co.uk/2020/04/this-is-gonna-take-a-lot-of-hugs-trolls-world-tour-film-review/"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Jason Fraley",
+                "url": "https://www.rottentomatoes.com/critic/jason-fraley"
+            },
+            "dateCreated": "2020-07-18T02:54:06-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "WTOP (Washington, D.C.)",
+                "url": "https://www.rottentomatoes.com/source-3775"
+            },
+            "reviewBody": "Families are home craving content to entertain the kids. \"Trolls World Tour\" accomplishes this with flying colors (quite literally), as the folks at DreamWorks Animation turn an animated journey into a unique music history lesson.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://wtop.com/entertainment/2020/04/review-trolls-world-tour-explores-music-history-as-it-makes-film-history-on-demand/"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Carla Hay",
+                "url": "https://www.rottentomatoes.com/critic/carla-hay"
+            },
+            "dateCreated": "2020-07-15T16:10:29-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Culture Mix",
+                "url": "https://www.rottentomatoes.com/source-3776"
+            },
+            "reviewBody": "Trolls World Tour has a message that people can live peacefully while respecting each other's differences. It's a message that comes wrapped in a lot of musical numbers and action sequences, but it's something that audiences can take to heart. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://culturemixonline.com/review-trolls-world-tour-featuring-voices-anna-kendrick-justin-timberlake-rachel-bloom-sam-rockwell-anderson-paak-james-corden-kelly-clarkson/"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Douglas Davidson",
+                "url": "https://www.rottentomatoes.com/critic/douglas-davidson"
+            },
+            "dateCreated": "2020-07-08T02:27:46-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Elements of Madness",
+                "url": "https://www.rottentomatoes.com/source-3247"
+            },
+            "reviewBody": "... [Trolls World Tour] is truly confounding in the most positive, warm-hugging, high-fiving, responsibility-taking way. ... you've got the best seat anywhere in your house to go on this crazy journey into the history of Trolldom.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://elementsofmadness.com/2020/07/08/trolls-world-tour/"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Dan Buffa",
+                "url": "https://www.rottentomatoes.com/critic/dan-buffa"
+            },
+            "dateCreated": "2020-07-02T08:21:44-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "KSDK News (St. Louis)",
+                "url": "https://www.rottentomatoes.com/source-3718"
+            },
+            "reviewBody": "There's just no heart, soul, or true purpose in this film; something generic and robotic about every aspect of its existence.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": -1,
+                "worstRating": "-1"
+            },
+            "url": "https://www.ksdk.com/article/entertainment/movies/movie-reviews/trolls-world-tour-review/63-17505eed-d210-4a5e-8976-d9d47b4e5b22"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "James Croot",
+                "url": "https://www.rottentomatoes.com/critic/james-croot"
+            },
+            "dateCreated": "2020-07-02T06:09:13-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "Stuff.co.nz",
+                "url": "https://www.rottentomatoes.com/source-1323"
+            },
+            "reviewBody": "All you can really say about Trolls World Tour is that it is a fun, but forgettable formulaic follow-up.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": -1,
+                "worstRating": "-1"
+            },
+            "url": "https://www.stuff.co.nz/entertainment/film/film-reviews/300048082/trolls-world-tour-dreamworks-go-for-woke--with-disappointing-results"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Lina Lecaro",
+                "url": "https://www.rottentomatoes.com/critic/lina-lecaro"
+            },
+            "dateCreated": "2020-06-26T08:52:22-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "L.A. Weekly",
+                "url": "https://www.rottentomatoes.com/source-251"
+            },
+            "reviewBody": "Even more than the original, Trolls World Tour, is a rainbow-swathed, glitter-drenched escape from reality, and it provides the full-on fantastical at-home experience that many families are probably craving right now.",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://www.laweekly.com/l-a-weeklys-streaming-movie-guide-extraction-trolls-we-summon-the-darkness-and-more/"
+        },
+        {
+            "@type": "Review",
+            "author": {
+                "@type": "Person",
+                "name": "Brent McKnight",
+                "url": "https://www.rottentomatoes.com/critic/brent-mcknight"
+            },
+            "dateCreated": "2020-06-25T06:49:59-07:00",
+            "publisher": {
+                "@type": "Organization",
+                "name": "The Last Thing I See",
+                "url": "https://www.rottentomatoes.com/source-3734"
+            },
+            "reviewBody": "Beats captures the highs and lows, the simultaneous hope and desolation, and, most of all, the wild, anarchic freedom of youth and having no idea what you're doing, but plowing full speed ahead, consequences be damned. ",
+            "reviewRating": {
+                "@type": "Rating",
+                "bestRating": "1",
+                "ratingValue": 1,
+                "worstRating": "-1"
+            },
+            "url": "https://www.thelastthingisee.com/2020/06/beats-2019-movie-review.html"
+        }
+    ],
+    "trailer": {
+        "@type": "VideoObject",
+        "description": [
+            "Poppy and Branch discover that they are but one of six different Troll tribes scattered over six different lands and devoted to six different kinds of music: Funk, Country, Techno, Classical, Pop and Rock. Their world is about to get a lot bigger and a whole lot louder.",
+            "Video Clip of Trolls World Tour"
+        ],
+        "embedUrl": "/video/imdb/vi4154703385",
+        "name": [
+            "Trailer #3",
+            "Trolls World Tour (Trailer 2)"
+        ],
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BMjRhZDM1NzYtM2U4Mi00NmNkLTk0MWMtNzliNTY5ZTEzOTgxXkEyXkFqcGdeQWFybm8@._V1_.jpg"
+        },
+        "thumbnailUrl": [
+            "https://m.media-amazon.com/images/M/MV5BMjRhZDM1NzYtM2U4Mi00NmNkLTk0MWMtNzliNTY5ZTEzOTgxXkEyXkFqcGdeQWFybm8@._V1_.jpg",
+            "https://content.internetvideoarchive.com/content/hdphotos/12635/012635/012635_1280x720_728171_069.jpg"
+        ],
+        "uploadDate": [
+            "2020-03-06T16:09:54Z",
+            "2020-01-27 17:05:20"
+        ]
+    }
+}

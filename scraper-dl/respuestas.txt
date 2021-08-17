@@ -1,0 +1,32 @@
+RESPUESTAS
+
+¿Cuán complejos son, en comparación con los scrappers que escribió en el TP1, los extractores que tuvo que escribir ahora?
+
+	En comparación a los scrappers del TP1, estos fueron mucho más simples de escribir (nosotros particularmente utilizamos un solo extractor para json-ld dada la falta de microdatos piolas en estas páginas). Hubo que realizar menos normalización de claves, solo un par de chequeos en algunas claves específicas como con los actores o eliminar las que se correspondían con la pagina web y no con la película en sí.
+
+¿Tuvo que hacer uno para cada página o pudo reutilizarlos? Si encontráramos otro sitio que hable de una película utilizando Schema.org y Microdatos o JSON-LD como mecanismo de serialización, ¿podríamos utilizar estos extractores?
+
+	Escribimos un solo extractor para las 4 paginas (y fue exponencialmente más bonito que en el tp anterior). Y si, si se agregara otro sitio que utilice el contexto de schema.org y json-ld solo habría que agregar la URL y se podrían obtener los datos reutilizando el extractor.
+
+¿Cuáles cree que son las ventajas y desventajas de utilizar Microdata?
+
+	Microdata tiene como ventaja facilitar la lectura de la información para las maquinas mediante la anidación de metadatos en conjuntos de pares nombre-valor. La principal desventaja es que los datos siguen estando dispersos dentro de la pagina en diferentes etiquetas <meta> haciendo que siga siendo necesario el recorrido completo para encontrar la información
+
+¿Cuáles cree que son las ventajas y desventajas de utilizar JSON-LD?
+
+	JSON-LD permite adjuntar todos los pares clave-valor dentro de una sola etiqueta script. Esto centraliza toda la información y facilita aún más el acceso de las maquinas a la meta-información, gracias a que se encuentran en un solo lugar. La principal desventaja es que se debe agregar un archivo completo en la página, cosa que produce un aumento considerable en los tiempos de carga si se trata de un archivo muy pesado.
+
+¿Cuáles cree que son las ventajas y desventajas de utilizar el vocabulario de Schema.org?
+
+	La principal ventaja del vocabulario Schema.org es que pone bajo un mismo standard la puesta en escena de la información, delimita los datos que se pueden mostrar y la forma en la que deben ser presentados. Ademas es mas facilita la obtención de información para los desarrolladores y en diferentes lenguajes.
+	Una desventaja es que los datos que se muestran con el vocabulario permitirían a los navegadores cargar la información sin dirigir a la página web. Además, si bien el esquema indica de que tipo deberían ser los valores de cada clave, las páginas pueden poner la misma información, en ese tipo, pero con un formato distinto, lo que genera información duplicada en el output de los scrappers (por ejemplo, el puntaje para una película puede ser 8 o 8.0).
+
+¿Cuáles cree que son los desafíos que todavía quedan por resolver?
+
+	- El mergeo de los datos, si bien sencillo, sigue siendo engorroso.
+
+	- Las páginas pueden no respetar los esquemas definidos por JSON-LD o el vocabulario de schema.org.
+
+	- La información todavía puede ser poco confiable o inconsistente (difícil de resolver, pero un desafío al fin y al cabo).
+
+	- Algunas de las páginas duplican su propia información (no sabemos si es algo puntual de IBMD en esa película o si suele pasar. Particularmente decidimos dejar esta información, suponemos que estaba duplicada a proposito; nos parece poco práctico que las páginas hagan esto).
