@@ -7,7 +7,7 @@ html5lib==1.1
 idna==2.10
 isodate==0.6.0
 jstyleson==0.0.2
-lxml==4.6.3
+lxml==4.6.5
 mf2py==1.1.2
 pyparsing==2.4.7
 pyRdfa3==3.5.3
