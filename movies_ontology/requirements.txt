@@ -7,7 +7,7 @@ click==7.1.2
 extruct==0.12.0
 html-text==0.5.2
 html5lib==1.1
-idna==2.10
+idna==3.7
 isodate==0.6.0
 jstyleson==0.0.2
 lxml==4.9.1
